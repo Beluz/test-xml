@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <module lecturer='Mikhail'>Information and retrieval data mining</module>
+    <ca>
+        <tittle>Assignment 1</tittle>
+        <submission-time>223:59</submission-time>
+        <submission-date>30/10/2020</submission-date>
+    </ca>
+ <!-- This is a comment -you can place anny comment
+    this is a multi-line comment -->
+
+    <!-- you can comment by using Ctrl+/  -->
+</document>
